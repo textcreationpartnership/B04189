@@ -1,0 +1,250 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The French king's edict upon the declaration made by the clergy of France, of their opinion concerning the ecclesiastical power: wherein is set forth, that the King is independent in things temporal, that general councils are above the Pope, that the Popes power is to be limited by the antient canons, that the Popes decisions are not infallible without the consent of the Church. Together with the said declaration of the clergy as they were registered in the Parliament of Paris, the 23 of March 1682.</title>
+            <title>Edit du roy sur la declaration faite par le clergé de France de ses sentimens touchant la puissance ecclesiastique. English</title>
+            <author>France. Sovereign (1643-1715 : Louis XIV)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04189</idno>
+            <idno type="STC">Wing L3123</idno>
+            <idno type="STC">ESTC R180080</idno>
+            <idno type="EEBO-CITATION">52614777</idno>
+            <idno type="OCLC">ocm 52614777</idno>
+            <idno type="VID">175963</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B04189)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175963)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2757:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The French king's edict upon the declaration made by the clergy of France, of their opinion concerning the ecclesiastical power: wherein is set forth, that the King is independent in things temporal, that general councils are above the Pope, that the Popes power is to be limited by the antient canons, that the Popes decisions are not infallible without the consent of the Church. Together with the said declaration of the clergy as they were registered in the Parliament of Paris, the 23 of March 1682.</title>
+                  <title>Edit du roy sur la declaration faite par le clergé de France de ses sentimens touchant la puissance ecclesiastique. English</title>
+                  <author>France. Sovereign (1643-1715 : Louis XIV)</author>
+                  <author>Louis XIV, King of France, 1638-1715.</author>
+                  <author>Catholic Church. Assemblée générale du clergé de France. Cléri gallicani de ecclesiastica potestate declaratio. English.</author>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>Re-printed by the heir of Andrew Anderson ...,</publisher>
+                  <pubPlace>Edinburgh, :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Translation of: Edit du roy sur la declaration faite par le clergé de France de ses sentimens touchant la puissance ecclesiastique.</note>
+                  <note>P. 6 misnumbered 9.</note>
+                  <note>Imperfect: print show-through with some loss of text.</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholic Church --  France --  Early works to 1800.</term>
+               <term>Church and state --  France --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-02</date>
+            <label>Anne Simpson</label>Sampled and proofread</change>
+         <change>
+            <date>2014-02</date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:175963:1" rendition="simple:additions"/>
+            <p>THE FRENCH KING'S EDICT Upon the DECLARATION Made by the Clergy of FRANCE, Of their Opinion concerning the Eccleſiaſtical Power: Wherein is ſet forth,
+<list>
+                  <item>
+                     <hi>That the King is Independent in Things Temporal.</hi>
+                  </item>
+                  <item>
+                     <hi>That General Councils are above the Pope.</hi>
+                  </item>
+                  <item>
+                     <hi>That the Popes Power is to be limited by the Antient Canons.</hi>
+                  </item>
+                  <item>
+                     <hi>That the Popes Deciſions are not Infallible without the Conſent of the Church.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>Together with the ſaid, Declaration of the CLERGY, As they were Regiſtred in the PARLIAMENT of PARIS, the 23 of <hi>March</hi> 1682.</p>
+            <p>
+               <hi>EDINB<g ref="char:V">Ʋ</g>RGH,</hi> Re-printed by the Heir of <hi>Andrew Anderſon,</hi> Printer to His moſt Sa<g ref="char:EOLhyphen"/>cred <hi>Majeſty,</hi> 1682.</p>
+         </div>
+      </front>
+      <body>
+         <div type="edict">
+            <pb facs="tcp:175963:2"/>
+            <pb n="3" facs="tcp:175963:2"/>
+            <head>The KING's Edict, upon the De<g ref="char:EOLhyphen"/>claration made by the Clergy of France, of their opinion concern<g ref="char:EOLhyphen"/>ing the Eccleſiaſtical Povver.</head>
+            <p>
+               <hi>LO<g ref="char:V">Ʋ</g>IS</hi> By the Grace of GOD, King of <hi>France</hi> and <hi>Na<g ref="char:EOLhyphen"/>varre,</hi> To all preſent and to come, Greeting. Although it be a certain and unconteſted Truth, Eſtabliſhed upon the Words of Chriſt Himſelf, That Our Crown is Independent of any Power but that of <hi>GOD</hi> alone; We have however received with Satisfaction the Declaration which the Deputies of the Clergy of <hi>France,</hi> Aſſembled by Our Permiſſion in our good City of <hi>Paris,</hi> have preſented to Us containing their Opinion touching the Eccleſi<g ref="char:EOLhyphen"/>aſtical Power: And We have ſo much the more willingly hearkned to the Requeſt which the ſaid Deputies have made to Us, to cauſe the ſaid Declaration to be publiſhed, for that, it being made by an Aſſembly compoſed of ſo many perſons equally recommendable for their Virtue and Learning, and who have with ſo much Zeal employ<g ref="char:EOLhyphen"/>ed themſelves in whatever may be of advantage to the Church, and Our Service, the Wiſdom and Moderation with which they have expreſſed the Opinion that ought to be had on this Subject, may very much contribute to the confirming Our Subjects in the Reſpect, which they, as well as We, ought to have for the Authority which God has given to the Church, and to the taking away, at the ſame time from the Miniſters of the pretended Reformed Religion the pretext they take, from the Books of ſome Authors, to render the power of the Viſible head of the Church, and the Center of Eccleſiaſtical Unity, Odious. For theſe Cauſes, and other good and weighty Conſiderations, Us thereunto moving, after having cauſed the ſaid Declaration to be examined in Our Council. We have by this Our preſent, perpetual, and irrevocable Edict, Said, Eſtabliſhed and Or<g ref="char:EOLhyphen"/>dained, do Say, Eſtabliſh, and Ordain, We Will, and it pleaſeth Us, That the ſaid Declaration of the Opinion of the Clergy concer<g ref="char:EOLhyphen"/>ning the Eccleſiaſtical power, hereunto affixed, under the Seal of Our
+<pb n="4" facs="tcp:175963:3"/>Chancery, be Regiſtred in all Our Courts of Parliament, Bailliwicks, Senechalſies, Univerſities and Faculties of Divinity, and the Canon Law, in our Kingdom, Countries, Lands, and Siegneuries under our Obedience.</p>
+            <p n="1">
+               <label>I.</label>
+            </p>
+            <p>WE forbid all our Subjects, and all Strangers being in our Kingdom, as well Seculars as Regulars, of what order, Con<g ref="char:EOLhyphen"/>gregation, or Society they are, to teach in their Houſes, Colledges, or Seminaries, or to write any thing contrary to the Doctrine con<g ref="char:EOLhyphen"/>tained in the ſame.</p>
+            <p n="2">
+               <label>II.</label>
+            </p>
+            <p>We Command that thoſe which ſhall for the future be choſen to teach Divinity in the Colledges of every Univerſity, whether they be Seculars or Regulars, ſhall before they perform that Function in the Colledges or Houſes Secular or Regular, ſubſcribe the ſaid De<g ref="char:EOLhyphen"/>claration in the Regiſtries of the Faculties of Divinity, and promiſe to teach the Doctrine therein contained; and that the Syndics of the Fa<g ref="char:EOLhyphen"/>culties of Divinity ſhall preſent to the Ordinaries of the Places, and to the Atturnies General, Copies of the ſaid Subſcriptions, Signed by the Regiſters of the ſaid Faculties.</p>
+            <p n="3">
+               <label>III.</label>
+            </p>
+            <p>That in all the Colledges and Houſes of the ſaid Univerſities, where there ſhall be many Profeſſors, whether Seculars or Regulars, One of them ſhall be oblieged every year to teach the Doctrine contain<g ref="char:EOLhyphen"/>ed in the ſaid Declaration; and in the Colledges where there ſhall be only one Profeſſor, he ſhall be oblieged to teach the ſame every third year.</p>
+            <p n="4">
+               <label>IV.</label>
+            </p>
+            <p>We Command the Syndics of the Faculty of Divinity to preſent every year, before the Opening of the Lectures, to the Archbiſhops or Biſhops of the places where they are eſtabliſhed, and to ſend to Our Atturnies General the Names of the Profeſſors who ſhall have the charge of Teaching the ſaid Doctrine; and We Command the ſaid Profeſ<g ref="char:EOLhyphen"/>ſors to preſent to the ſaids Prelates, and to Our Atturnies General the Writings which they ſhall dictate to their Schollars, when they ſhall be by them thereto required.</p>
+            <p n="5">
+               <label>V.</label>
+            </p>
+            <p>We will, That no Batchelor, whether Secular or Regular, ſhall for the future be Licenſed in Divinity, or the Canon Law, nor re<g ref="char:EOLhyphen"/>ceived a Doctor, till he has maintained the ſaid Doctrine in one of his Theſes, which he ſhall make appear to thoſe that have right of con<g ref="char:EOLhyphen"/>ferring the ſaid Degrees in the Univerſities.</p>
+            <p n="6">
+               <label>VI.</label>
+            </p>
+            <p>We Exhort, and alſo Enjoyn all Archbiſhops and Biſhops of Our Kingdom, Countreys, Lands and Segneuries under Our Obedience, to employ their Authority in cauſing the Doctrine contained in the
+<pb n="5" facs="tcp:175963:3"/>ſaid Declaration of the ſaid Deputies of the Clergy to be taught in their Dioceſſes.</p>
+            <p n="7">
+               <label>VII.</label>
+            </p>
+            <p>We Command the Deans, and Syndics of the Faculties of Divinity, to take care of the Execution of theſe Preſents, on pain of anſwering the contrary in their own and private Capacities.</p>
+            <p>So We give Charge to Our Well-beloved and Truſty holding Our Courts of Parliament, that they cauſe theſe Our preſent Letters, in form of an Edict, to be Read, Publiſhed, and Regiſtred, together with the ſaid Declaration of the Clergy, in the Regiſtries of Our ſaid Courts, Bailliwicks, Senechalſies, and Univerſities within their Juriſ<g ref="char:EOLhyphen"/>diction, and that they ſee the ſame obſerved, without ſuffering any contravention therein directly or indirectly; and that they proceed againſt the Offenders in ſuch manner as they ſhall think fit, according to the Exigency of the caſe; for ſuch is Our pleaſure. And that the ſame may remain firm and eſtabliſhed for ever, We have cauſed Our Seal to be put to theſe Preſents.</p>
+            <closer>
+               <dateline>Given at <hi>St. Germains in Laye,</hi> 
+                  <date>in the Month of <hi>March,</hi> in the year of <hi>Grace</hi> 1682. and of Our Reign the 39th.</date>
+               </dateline>
+               <signed>Signed <hi>LO<g ref="char:V">Ʋ</g>IS;</hi>
+               </signed>
+            </closer>
+            <closer/>
+            <postscript>
+               <p>And lower, <hi>By the King, Colbert; Viſa, le Tellier,</hi> and Sealed with the great Seal on Green-Wax.</p>
+               <p>Regiſtred, The Atturney-General being heard, and requiring it, that they may be put in Execution, according to their Form and Te<g ref="char:EOLhyphen"/>nor, purſuant to the Order of this Day.</p>
+               <closer>
+                  <dateline>At <hi>Paris</hi> in Parliament, <date>the 23 of <hi>March</hi> 1682.</date>
+                  </dateline>
+                  <signed>Signed.<hi> DONGOIS.</hi>
+                  </signed>
+               </closer>
+            </postscript>
+         </div>
+         <div type="declaration">
+            <head>The Declaration of the Clergy of <hi>France,</hi> concerning the Eccleſiaſtical Power.</head>
+            <p>MAny there are who endeavour to invade the Decrees and Liber<g ref="char:EOLhyphen"/>ties of the Gallican Church (with ſo much Zeal contended for by our Anceſtors) and even to undermine the Foundation of them, which is Built upon the Holy Canons, and the Tradition of the Fa<g ref="char:EOLhyphen"/>thers; nor are thoſe wanting, who under pretence of thoſe Liber<g ref="char:EOLhyphen"/>ties, are not afraid to leſſen the Supremacy of St. <hi>Peter,</hi> and his Suc<g ref="char:EOLhyphen"/>ceſſors, the Popes of <hi>Rome,</hi> Inſtituted by Chriſt, the obedience due
+<pb n="6" facs="tcp:175963:4"/>to them from all Chriſtians, and the Majeſty of the Apoſtolick See (revered by all people) wherein the Faith is Preached, and the Unity of the Church preſerved. Neither do the Hereticks omit any thing, whereby they may render the power, by which the peace of the Church is preſerved, grievous and odious to Princes and their Sub<g ref="char:EOLhyphen"/>jects, and by theſe Frauds they withdraw the Simple from the Com<g ref="char:EOLhyphen"/>munion of their Mother the Church, and of Chriſt: To prevent which Evils, we the Archbiſhops, and Biſhops, met at <hi>Paris,</hi> by the Kings Command, repreſenting the Gallican Church, with other Ec<g ref="char:EOLhyphen"/>cleſiaſtical Perſons, deputed together with us, have after Mature de<g ref="char:EOLhyphen"/>liberation, thought fit that the following Articles ſhould be eſtabliſhed and declared.</p>
+            <p n="1">
+               <label>I.</label>
+            </p>
+            <p>That the power of things Spiritual, and ſuch as belong to our eter<g ref="char:EOLhyphen"/>nal Salvation, was given by God to St. <hi>Peter,</hi> and his Succeſſors Chriſts Vicars, and to his Church, but not that of things Civil and Temporal: our Lord ſaying, <hi>My Kingdom is not of this World.</hi> And again, <hi>Ren<g ref="char:EOLhyphen"/>der therefore unto</hi> Caeſar <hi>the things that are</hi> Caeſars, <hi>and unto God the things that are Gods.</hi> And this is meant by the Words of the Apoſtle, <hi>Let every Soul be ſubject to the Higher Powers; For all power is from God, and all powers are ordained by God: He therefore that reſiſteth, reſiſteth the Ordinance of God.</hi> That therefore Kings and Princes are not, by the Command of God, ſubject in things Temporal, to any Eccleſiaſti<g ref="char:EOLhyphen"/>cal Power, neither can they directly, or indirectly, be Depoſed by the power of the Keys of the Church, nor their Subjects be freed from their Duty and Obedience, and Oath of Allegiance. And that this Opinion neceſſary for the publick Peace, and no leſs uſeful to the Church than the State, is to be Maintained as altogether agreeable to the Word of God, the Tradition of the Fathers, and the Examples of the Saints.</p>
+            <p n="2">
+               <label>II.</label>
+            </p>
+            <p>But that this full Power of things Spiritual, is ſo in the Apoſtolical See, and St. <hi>Peters</hi> Succeſſors, the Vicars of Chriſt, as that withal the Decreets of the Holy Oeconomical Council of <hi>Constans,</hi> made in the 4th and 5th Seſſions, concerning th Authority of General Councils, which have been approved by the Apoſtolick See, and Confirmed by the practice of the Popes of <hi>Rome,</hi> and of the whole Church, and always Religiouſly obſerved by the Gallican Church, are in full Force, and continue unalterable. And that the Gallican Church condems thoſe that would take from the force of thoſe Decrees, as if their Authority was doubted, or leſs approved, or would apply them only to the times of Schiſms.</p>
+            <p n="3">
+               <label>III.</label>
+            </p>
+            <p>That therefore the uſe of this Apoſtolick power, is to be Moderat<g ref="char:EOLhyphen"/>ed by the Canons, made by the Spirit of God, and Conſecrated by the Reverence of the whole World. That likewiſe the Orders, Cu<g ref="char:EOLhyphen"/>ſtomes,
+<pb n="7" facs="tcp:175963:4"/>and Statutes, received by the Crown and the Gallican Church, are of Force; and that the Bounds fixed by the Fathers, ought to remain unremoved; and that it concerns the Greatneſs of the Apoſto<g ref="char:EOLhyphen"/>ſtolick See, that the Statutes and Cuſtomes, confirmed by the conſent of ſo great a See, and of the whole Church, ſhould be Eſtabliſhed upon a firm Foundation.</p>
+            <p n="4">
+               <label>IV.</label>
+            </p>
+            <p>That in Queſtions concerning Faith, the Pope has the chief part, and that all and ſingular Churches are concerned in his Decrees; But that however his Deciſions are not unreformable without the conſent of the Church.</p>
+            <p n="5">
+               <label>V.</label>
+            </p>
+            <p>Which Doctrines we have received from the Fathers, do Decree to be ſent to all the Gallican Churches, and to the Biſhops by the Holy Spirit preſiding over them, that we may all ſay the ſame thing, and be all of the ſame Mind.</p>
+            <closer>
+               <signed>Signed by
+<list>
+                     <item>
+                        <hi>The Archbiſhop of</hi> Paris, <hi>Preſident.</hi>
+                     </item>
+                     <item>
+                        <hi>The Archbiſhop of</hi> Rheims.</item>
+                     <item>
+                        <hi>Six other Archbiſhops.</hi>
+                     </item>
+                     <item>
+                        <hi>By</hi> 26 <hi>Biſhops, and the rest of the Deputies of the Clergy.</hi>
+                     </item>
+                  </list>
+               </signed>
+               <dateline>
+                  <hi>Regiſtred in the Parliament of</hi> Paris, <date>
+                     <hi>the</hi> 23. <hi>of</hi> March, 1682.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:175963:5" rendition="simple:additions"/>
+            <pb facs="tcp:175963:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
